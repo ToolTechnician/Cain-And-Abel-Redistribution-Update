@@ -11,9 +11,7 @@ https://www.winpcap.org/install/
 
 Nezur Cracker
 
-https://sites.google.com/view/nezurcracker/home
-
-UPDATED VERSION: https://sites.google.com/view/nezur-cracker/home
+https://sites.google.com/view/nezursite/home
 
 Python
 
